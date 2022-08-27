@@ -1,0 +1,68 @@
+.footer{
+    background-color: var(--secondaryColor);
+    padding-top: 120px;
+    padding-bottom: 57px;
+}
+
+.footer__main{
+    display: flex;
+}
+
+.footer__logo{
+    width: 40%;
+}
+.footer__pera{
+    font-size: var(--peragraph);
+    font-family: var(--nunito);
+    color: var(--black);
+    font-weight: var(--regular);
+    line-height: 32px;
+    padding-right: 85px;
+    margin-top: 44px;
+    margin-bottom: 190px;
+}
+.footer__Features{
+    width: 18%;
+}
+
+.footer__Products{
+    width: 22%;
+}
+
+.footer__Support{
+    width: 20%;
+}
+
+.footer__bottom{
+    display: flex;
+    justify-content: space-between;
+}
+.footer li:first-child{
+   font-size: var(--topTitel);
+   font-weight: var(--semibold);
+   color: #29313D  ;
+   font-family: var(--opensans);
+   margin-bottom: 48px;
+}
+
+.footer ul li{
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-family: var(--nunito);
+    font-weight: var(--semibold);
+    color: #29313D    ;
+    opacity: 90%;
+}
+
+.footer__left{
+    color: #29313D;
+    font-size: var(--peragraph);  
+    font-weight: var(--regular);  
+    font-family: var(--nunito);
+    opacity: 90%;
+}
+
+.footer__right{
+    margin-left: 60px;
+}
+

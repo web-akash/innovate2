@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+
+html body{
+    overflow-x: hidden;
+}
+
+.feature__titel__subheading{
+    font-family: var(--nunito);
+    font-weight: var(--mediam);
+    font-size: var(--topTitel);
+    color: var(--primeryColor);
+}
+
+.feature__titel__heading{
+    font-family: var(--poppins);
+    font-weight: var(--semiBold);
+    color: var(--black);
+    font-size: var(--titel);
+}

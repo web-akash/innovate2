@@ -1,0 +1,33 @@
+.navbar{
+    position: absolute;
+    width: 100%;
+    z-index: 9999;
+    padding-top: 20px;
+}
+
+.navbar__flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar__items{
+    display: flex;
+    column-gap: 74px;
+    color: #ffff;
+    font-family: var(--opensans);
+    font-size: 18px;
+    font-weight: var(--semiBold);
+}
+.navbar__link{
+    padding: 14px 18px;
+    border: 1px solid #ffff;
+    opacity: .6;
+    border-radius: 14px;
+    color: #ffff;
+}
+
+.navbar__arrow{
+    margin-left: 10px;
+    font-size: 16px;
+}

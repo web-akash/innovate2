@@ -1,0 +1,14 @@
+.service{
+    position: relative;
+    background-color: red;
+}
+.service__item{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: -132px;
+    left: 0;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 2;
+}

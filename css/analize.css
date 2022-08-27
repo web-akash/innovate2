@@ -1,0 +1,31 @@
+.analize{
+    background: radial-gradient(83.85% 128.37% at 37.1% 10.23%, #082859 0%, #07234D 20.14%, #04152E 56.38%, #000000 100%);
+    border-radius: 70px;
+    padding-top: 123px;
+    padding-bottom: 123px;
+    position: relative;
+    margin: 100px 0;
+
+}
+.analize--color{
+    color: #ffff;
+
+}
+
+.analize__details{
+    font-family: var(--nunito);
+    font-weight: var(--regular);
+    font-size: 18px;
+    color: #ffff;
+    opacity: 60%;
+    width: 632px;
+    margin: 0 auto;
+    line-height: 36px;
+    text-transform: capitalize;
+    margin-top: 10px;
+    margin-bottom: 28px;
+}
+
+.alalize__from--padding{
+    padding-bottom: 0;
+}

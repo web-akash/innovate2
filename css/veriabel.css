@@ -1,0 +1,24 @@
+:root{
+    --primeryColor: #6A55EA;
+    --primeryLight: #F0EDFF;
+    --secondaryColor: #F1FBFB ;
+    --therdColor: #FDFDFD;
+    --brownColor: #F8A64C;
+    --brownLight: #FEF6EC;
+    --greenColor: #63DE9D;
+    --greenLight: #E8FCF2;
+    --black : #29313D;
+    --topTitel: 24px;
+    --titel: 48px;
+    --subTitel: 28px;
+    --peragraph: 18px;
+    --peraLineHeight: 36px;
+    --semibold : 600;
+    --regular : 400;
+    --mediam: 500;
+    --semiBold: 600;
+    --opacity: .6;
+    --opensans: 'Open Sans', sans-serif;
+    --nunito: 'Nunito', sans-serif;
+    --poppins : 'Poppins', sans-serif;
+}

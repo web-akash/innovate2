@@ -1,0 +1,30 @@
+.trafic{
+    margin-top: 100px;
+}
+
+.traffic__main{
+    display: flex;
+}
+
+.trafic__left{
+    width: 50%;
+}
+.trfic__right{
+    width: 50%;
+}
+
+.traffic__pera{
+    font-family: var(--nunito);
+    font-size: var(--peragraph);
+    color: var(--black);
+    font-weight: var(--regular);
+    line-height: 36px;
+    width: 596px;
+}
+
+.trafic__images{
+    width: 90%;
+    margin-bottom: 100px;
+}
+
+
